@@ -1,8 +1,6 @@
 # DE2_Tetris
 **Project Title**: Tetris <br>
-**Created By**: Jenisha Thomas, Ali Al Rawaf, Vineet Arunkumar Desai and Chandra Panta Chhetri <br>
-
-Verilog Files for our CSCB58, Summer 2019 final project using the DE2-115 FPGA board (Cyclone IV E - EP4CE115F29C7)
+**Created By**: Ali Al-Rawaf, Jenisha Thomas, Vineet Arunkumar Desai and Chandra Panta Chhetri <br>
 
 ### Game Instructions:
                  On startup, turn on SW[9] to start the game
